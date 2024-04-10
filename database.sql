@@ -1,4 +1,4 @@
-CREATE TABLE financas.lancamento
+CREATE TABLE financas.usuario
 	(
 	id bigserial NOT NULL PRIMARY KEY,
 	nome character varying(150),
